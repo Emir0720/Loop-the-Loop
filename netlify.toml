@@ -1,0 +1,4 @@
+[[redirects]]
+from ="/*"
+to = "İndex.html"
+status = 200
